@@ -3,7 +3,7 @@
 ZapFile-Official is the central repository for **ZapFile.ai**, an intelligent file-sharing service that simplifies sending and managing files online.
 
 🌐 Website: https://zapfile.ai  
-📄 Learn more about Zapfile: [https://zapfile.ai/features](https://zapfile.ai/about)
+📄 Learn more about Zapfile: [https://zapfile.ai/about](https://zapfile.ai/about)
 
 ---
 
