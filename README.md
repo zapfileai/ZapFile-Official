@@ -4,6 +4,7 @@ ZapFile.ai is a fast, secure, and privacy-focused peer-to-peer (P2P) file-sharin
 It allows users to send files directly between devices without uploading them to any server — similar to ToffeeShare.
 
 👉 Website: https://zapfile.ai
+
 contact: [https://zapfile.ai](https://zapfile.ai/contact)
 
 ---
