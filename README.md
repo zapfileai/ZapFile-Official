@@ -1,60 +1,40 @@
-# ZapFile.ai — Peer-to-Peer File Sharing
+# ZapFile-Official — AI-Powered File Sharing
 
-ZapFile.ai is a fast, secure, and privacy-focused peer-to-peer (P2P) file-sharing service.  
-It allows users to send files directly between devices without uploading them to any server — similar to ToffeeShare.
+ZapFile-Official is the central repository for **ZapFile.ai**, an intelligent file-sharing service that simplifies sending and managing files online.
 
-👉 Website: https://zapfile.ai
-
-contact: [https://zapfile.ai](https://zapfile.ai/contact)
+🌐 Website: https://zapfile.ai  
+📄 Learn more about our features: https://zapfile.ai/features
 
 ---
 
-## What is ZapFile.ai?
+## What is ZapFile-Official?
 
-ZapFile.ai enables instant file sharing using direct, encrypted P2P connections.  
-Your files never touch our servers — they are transferred directly from sender to receiver.
+ZapFile-Official contains reference materials, guides, and sample configurations for users and developers of ZapFile.ai.  
+It demonstrates secure, fast, and browser-friendly file transfers.
 
 ---
 
 ## Features
 
-- True peer-to-peer file transfer (WebRTC)
-- No file size limits
-- End-to-end encrypted connections
-- Extremely fast on Wi-Fi / LAN
-- Works fully in the browser (no installation needed)
-- One-time share links or QR codes
-- Privacy-focused (no tracking, no storage)
+- Browser-based file sharing with AI enhancements  
+- Peer-to-peer transfer for privacy and speed  
+- No file size restrictions  
+- End-to-end encrypted connections  
+- Easy-to-use interface for individuals and teams
 
 ---
 
-## How It Works
+## Repository Use
 
-1. Open https://zapfile.ai  
-2. Select a file to share  
-3. A secure WebRTC connection is created  
-4. Share the generated link or QR code  
-5. The file transfers directly to the receiver’s device
+This repository includes:
 
----
-
-## Why Use ZapFile.ai?
-
-- Files do NOT get uploaded to any server  
-- No accounts or signups required  
-- Unlimited file size  
-- Secure, private, and fast  
-- Great for transferring large files between devices
+- Documentation for ZapFile.ai  
+- Guides and tutorials  
+- Example scripts  
+- Future SDKs and tools
 
 ---
 
-## Repository Purpose
+## License
 
-This repository contains:
-
-- Documentation  
-- Issue tracking  
-- Development updates  
-- Future SDKs and integrations
-
----
+MIT License
